@@ -1,5 +1,5 @@
 # ArraysProject
-dgeg
+dgeg/n
 ergerwgerg
 ergewrgergergerg
 er
